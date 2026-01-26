@@ -3,7 +3,7 @@
 A Full Stack MERN web application that connects Clients and Freelancers on a single platform.  
 Clients can post freelance jobs, and freelancers can browse and apply for those jobs securely.
 
-This project demonstrates end-to-end full stack development, clean architecture, authentication, and real-world problem solving — making it highly suitable for placements and interviews.
+This project demonstrates end-to-end full stack development, clean architecture, authentication, and real-world problem solving.
 
 ---
 
@@ -145,5 +145,6 @@ npm start
 Frontend runs at:
  http://localhost:3000
 cd FSD_Project
+
 
 
