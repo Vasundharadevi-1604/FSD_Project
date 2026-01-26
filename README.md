@@ -97,7 +97,7 @@ FSD_Project/
 │   └── .gitignore
 │
 └── README.md
-
+```text
 
 ---
 
@@ -141,4 +141,5 @@ npm install
 npm start
 Frontend runs at:
 http://localhost:3000
+
 
