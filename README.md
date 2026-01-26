@@ -116,31 +116,34 @@ FSD_Project/
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Vasundharadevi-1604/FSD_Project.git
-cd FSD_Project
-
-### 2️⃣ Backend Setup
-```bash
+2️⃣ Backend Setup
 cd backend
 npm install
 
-#### Create .env file in backend
+Create .env file in backend
+
 Create a .env file inside the backend folder using .env.example as reference.
 
-#### Start Backend Server
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+
+Start Backend Server
 npm run dev
+
+
 Backend runs at:
-http://localhost:5000
+ http://localhost:5000
 
-### 3️⃣ Frontend Setup
-
-```bash
+3️⃣ Frontend Setup
 cd ../frontend
 npm install
 
-#### Start Frontend Application
+Start Frontend Application
 npm start
+
+
 Frontend runs at:
-http://localhost:3000
-
-
+ http://localhost:3000
+cd FSD_Project
 
