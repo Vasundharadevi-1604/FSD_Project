@@ -1,9 +1,9 @@
-# 🚀 Freelance Job Finder – Full Stack Development (FSD) Project
+# 🚀 Freelance Job Finder – Full Stack Web Application (MERN Stack)
 
-A **Full Stack MERN web application** that connects **Clients** and **Freelancers** on a single platform.  
+A Full Stack MERN web application that connects Clients and Freelancers on a single platform.  
 Clients can post freelance jobs, and freelancers can browse and apply for those jobs securely.
 
-This project demonstrates **end-to-end full stack development**, clean architecture, authentication, and real-world problem solving — making it **highly suitable for placements and interviews**.
+This project demonstrates end-to-end full stack development, clean architecture, authentication, and real-world problem solving — making it highly suitable for placements and interviews.
 
 ---
 
@@ -116,7 +116,8 @@ FSD_Project/
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Vasundharadevi-1604/FSD_Project.git
-2️⃣ Backend Setup
+
+### 2️⃣ Backend Setup
 cd backend
 npm install
 
@@ -131,19 +132,18 @@ JWT_SECRET=your_jwt_secret
 Start Backend Server
 npm run dev
 
-
 Backend runs at:
  http://localhost:5000
 
-3️⃣ Frontend Setup
+### 3️⃣ Frontend Setup
 cd ../frontend
 npm install
 
 Start Frontend Application
 npm start
 
-
 Frontend runs at:
  http://localhost:3000
 cd FSD_Project
+
 
