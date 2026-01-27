@@ -1,4 +1,4 @@
-# 🚀 Freelance Job Finder – Full Stack Web Application (MERN Stack)
+# Freelance Job Finder – Full Stack Web Application (MERN Stack)
 
 A Full Stack MERN web application that connects Clients and Freelancers on a single platform.  
 Clients can post freelance jobs, and freelancers can browse and apply for those jobs securely.
@@ -157,5 +157,6 @@ npm start
 
 Frontend runs at:  
 http://localhost:3000
+
 
 
