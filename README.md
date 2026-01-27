@@ -114,7 +114,7 @@ FSD_Project/
 ## ⚙️ How to Run the Project Locally
 
 1️⃣ Clone the Repository
-```bash
+bash
 git clone https://github.com/Vasundharadevi-1604/FSD_Project.git
 
 2️⃣ Backend Setup
@@ -145,6 +145,7 @@ npm start
 Frontend runs at:
  http://localhost:3000
 cd FSD_Project
+
 
 
 
