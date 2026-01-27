@@ -119,7 +119,6 @@ git clone https://github.com/Vasundharadevi-1604/FSD_Project.git
 cd FSD_Project
 ```
 
----
 
 ### 2️⃣ Backend Setup
 ```bash
@@ -144,7 +143,6 @@ npm run dev
 Backend runs at:  
 http://localhost:5000
 
----
 
 ### 3️⃣ Frontend Setup
 ```bash
@@ -159,4 +157,5 @@ npm start
 
 Frontend runs at:  
 http://localhost:3000
+
 
